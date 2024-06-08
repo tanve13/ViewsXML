@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My code</string>
+    <string name="heading">Heading</string>
+    <string name="name">Name</string>
+    <string name="college">College</string>
+    <string name="Contact">Contact</string>
+    <string name="Email">Email</string>
+</resources>
