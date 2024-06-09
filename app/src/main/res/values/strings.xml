@@ -1,8 +1,15 @@
 <resources>
     <string name="app_name">My code</string>
-    <string name="heading">Heading</string>
+    <string name="Heading">Heading</string>
     <string name="name">Name</string>
     <string name="college">College</string>
     <string name="Contact">Contact</string>
     <string name="Email">Email</string>
+    <string name="YES">YES</string>
+    <string name="NO">NO</string>
+    <string name="StudyField">StudyField</string>
+    <string name="SAVE">SAVE</string>
+    <string name="Are_yoy_studying">Are you studying</string>
+    <string name="enter_your_field">Enter your field</string>
+
 </resources>
