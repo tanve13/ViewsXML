@@ -11,5 +11,10 @@
     <string name="SAVE">SAVE</string>
     <string name="Are_yoy_studying">Are you studying</string>
     <string name="enter_your_field">Enter your field</string>
+    <string name="Are_you_studying">Are you studying</string>
+    <string name="Enter_your_contact_no">Enter your contact no</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="enter_your_college">enter your college</string>
+    <string name="enter_your_email">enter your email</string>
 
 </resources>
